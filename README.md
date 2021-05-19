@@ -2,7 +2,7 @@
 Find Subreddits where a search term is used the most
 
 
-### Launcher Screenshots
+### Application Screenshots
 
 - Application on Start-up
 
